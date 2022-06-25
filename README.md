@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aman_saini_0003" target="blank"><img src="https://img.shields.io/twitter/follow/aman_saini_0003?logo=twitter&style=for-the-badge" alt="aman_saini_0003" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs,**
+- 🌱 I’m currently working on **Kotlin, Micronaut, Ruby on Rails**
 
 - 📫 How to reach me **aman.mea.1805@iiitbh.ac.in**
 
