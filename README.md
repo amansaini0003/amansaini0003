@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **Kotlin, Micronaut, Ruby on Rails.**
 
-- 📫 Cogoport Github URL  **github.com/aman-saini-cogoport**
+- 📫 Cogoport Github URL  **[Github URL](https://github.com/aman-saini-cogoport)**
 
 
 <h3 align="left">Connect with me:</h3>
