@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently working on **Kotlin, Micronaut, Ruby on Rails.**
 
-- 📫 How to reach me **aman.mea.1805@iiitbh.ac.in**
+- 📫 Cogoport Github URL  **github.com/aman-saini-cogoport**
 
-- 🔗 Cogoport Github URL **github.com/aman-saini-cogoport**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
